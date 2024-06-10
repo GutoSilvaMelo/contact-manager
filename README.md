@@ -1,1 +1,1 @@
-# contact-manager
+Atividade Prática de Laboratório: Projeto de Gerenciamento de Contatos
